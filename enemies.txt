@@ -1,1 +1,1 @@
-"Enemies: goblin slime" 
+"Enemies:goblin,slime,bat" 
